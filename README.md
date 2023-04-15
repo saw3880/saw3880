@@ -1,4 +1,4 @@
-### Hi there my name is svetla
+### Hi there my name is svetla this is my github to help me better practice and show the lab i have created during my i.t classes
 
 <!--
 **saw3880/saw3880** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
